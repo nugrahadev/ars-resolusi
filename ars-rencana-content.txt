@@ -3,9 +3,11 @@ RENCANA KONTEN ARS
 - Javascript
   # ES6
   # Framework
+    ^ Vue
     ^ React
-    ^ Angular
+- Struktur Data Dasar
 - PHP Framework
- ^ Laravel
+   ^Laravel
 - Interview
 - Vlogs
+- Python
