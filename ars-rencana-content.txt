@@ -4,6 +4,7 @@ RENCANA KONTEN ARS
   # ES6
   # Framework
     ^ Vue
+    ^ Angular
     ^ React
 - Struktur Data Dasar
 - PHP Framework
